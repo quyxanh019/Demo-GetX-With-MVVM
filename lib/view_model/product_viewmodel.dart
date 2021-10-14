@@ -65,7 +65,7 @@ class ProductViewModel {
       categoryId: 1,
     ),
     Product(
-      id: 6,
+      id: 7,
       title: "Office Code",
       price: 234,
       size: 12,
@@ -75,7 +75,7 @@ class ProductViewModel {
       categoryId: 2,
     ),
     Product(
-      id: 6,
+      id: 8,
       title: "Office Code",
       price: 234,
       size: 12,
@@ -85,7 +85,7 @@ class ProductViewModel {
       categoryId: 3,
     ),
     Product(
-      id: 6,
+      id: 9,
       title: "Office Code",
       price: 234,
       size: 12,
